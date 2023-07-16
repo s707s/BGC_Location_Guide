@@ -1,0 +1,26 @@
+body {
+    margin-top: 3rem;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    margin-top: 2rem;
+    color: #3a489e;
+    font-weight: bold;
+}
+
+p {
+    margin: 4%;
+    font-size: large;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    margin-bottom: 7%;
+    width: 260px;
+    height: auto;
+}

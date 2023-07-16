@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+h1 {
+    color: #3a489e;
+}
+
+img {
+    margin-bottom: 1rem;
+    width: 25%;
+}
+
+a:hover {
+    color: rgb(249, 249, 249);
+}
+
+.content {
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: 5rem;
+    color: #070000;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.myButton {
+    background-color: #73d0ec;
+    border-radius: 1rem;
+    display: inline-block;
+    cursor: pointer;
+    color: #070000;
+    padding: 1rem 2.4rem;
+    text-decoration: none;
+}
+
+.myButton:hover {
+    background-color: #3a489e;
+}
+
+.myButton:active {
+    position: relative;
+    top: 0.2rem;
+}
